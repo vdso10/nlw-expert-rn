@@ -9,7 +9,7 @@ import {
 
 } from '@expo-google-fonts/inter'
 
-import { Loading } from "../components/loading"
+import { Loading } from "../components/Loading"
 
 
 export default function Layout(){
